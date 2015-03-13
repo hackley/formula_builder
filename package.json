@@ -1,0 +1,19 @@
+{
+  "name": "formula_builder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nathan Hackley <nathanhackley@gmail.com>",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "chai": "~1.9.1"
+  }
+}
