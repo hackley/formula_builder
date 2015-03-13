@@ -1,7 +1,7 @@
 {
   "name": "formula_builder",
   "version": "0.0.1",
-  "description": "",
+  "description": "Calculate nested math operations.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
